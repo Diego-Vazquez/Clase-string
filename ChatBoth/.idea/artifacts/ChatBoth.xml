@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ChatBoth">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatBoth</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="Chatbot" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="ChatBoth.jar">
+        <element id="module-output" name="ChatBoth" />
+      </element>
+    </root>
+  </artifact>
+</component>
